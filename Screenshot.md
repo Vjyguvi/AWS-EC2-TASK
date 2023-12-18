@@ -14,6 +14,6 @@
 ###  Docker and docker-compose installed
 
 > sudo docker --version
-> sudo docker-compose --version
+>>> sudo docker-compose --version
 
 ![Screenshot docker version](https://github.com/Vjyguvi/AWS-EC2-TASK/assets/150816386/064e500b-ce76-44f5-961c-18d825a2a4c9)
